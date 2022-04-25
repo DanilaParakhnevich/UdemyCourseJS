@@ -73,8 +73,3 @@ personalMovie.showDB();
 personalMovie.toggleVisibleMyDB();
 
 personalMovie.showDB();
-
-
-
-
-
