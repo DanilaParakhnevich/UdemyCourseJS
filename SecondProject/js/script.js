@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
         a.target.reset();
     }
 
-    function updateFilmList(movies) {
+        function updateFilmList(movies) {
         movies.sort();
         const films = document.querySelector(".promo__interactive-list");
         films.innerHTML = "";
